@@ -1,4 +1,3 @@
-%%Project digital communication :
 data=importdata('project.txt') ;
 projectText=data{1,1}; 
 
