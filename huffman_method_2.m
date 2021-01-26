@@ -1,4 +1,3 @@
-%bader project
 IMPOTED_DATA=importdata('project.txt') ;
 Project_Text=IMPOTED_DATA{1,1}; 
 N=length(Project_Text);
